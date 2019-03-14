@@ -1,0 +1,1 @@
+cmd_/home/cyc/usr/projects/实验/操作系统课设实验/part3/chrdev.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/cyc/usr/projects/实验/操作系统课设实验/part3/chrdev.ko /home/cyc/usr/projects/实验/操作系统课设实验/part3/chrdev.o /home/cyc/usr/projects/实验/操作系统课设实验/part3/chrdev.mod.o ;  true
