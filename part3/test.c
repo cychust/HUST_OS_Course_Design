@@ -20,7 +20,7 @@ int main()
 	//printf("Please input the device's name: ");
 	//gets(devName);
 	//strcat(dir, devName);
-	fd = open("/dev/cycDevDriver", O_RDWR | O_NONBLOCK, S_IRUSR|S_IWUSR); 
+	fd = open("/dev/myDevDrive", O_RDWR | O_NONBLOCK, S_IRUSR|S_IWUSR); 
 	if( fd>0 )
 	{
 		// get str from buf

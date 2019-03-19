@@ -1,3 +1,3 @@
-/home/cyc/usr/projects/实验/操作系统课设实验/part3/chrdev.ko
-/home/cyc/usr/projects/实验/操作系统课设实验/part3/chrdev.o
+/home/cyc/usr/projects/实验/操作系统课设实验/git/HUST_OS_Course_Design/part3/chrdev.ko
+/home/cyc/usr/projects/实验/操作系统课设实验/git/HUST_OS_Course_Design/part3/chrdev.o
 
